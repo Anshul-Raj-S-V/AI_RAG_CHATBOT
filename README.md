@@ -86,6 +86,10 @@ A Retrieval-Augmented Generation (RAG) Chatbot built with LangChain, Groq LLM, a
 
    Caches the vector store for efficiency with @st.cache_resource.
 
+
+   ![User Interface](ui.png)
+
+
 #Project Structure 📂
 
 AI_CHATBOT_RAG/
