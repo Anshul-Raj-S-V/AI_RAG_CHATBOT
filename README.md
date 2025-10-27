@@ -2,6 +2,20 @@
 
 A Retrieval-Augmented Generation (RAG) Chatbot built with LangChain, Groq LLM, and Streamlit, capable of answering user queries using PDF documents as its knowledge base. This project demonstrates how to combine vector embeddings, document retrieval, and large language models to create a smart and interactive chatbot. 💡
 
+
+
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/) 
+[![LangChain](https://img.shields.io/badge/LangChain-Framework-blueviolet)](https://www.langchain.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)](https://streamlit.io/)
+[![Groq](https://img.shields.io/badge/langchain--groq-Groq_API-purple)](https://groq.com/)
+[![LangChain Community](https://img.shields.io/badge/LangChain--Community-Integrations-orange)](https://python.langchain.com/docs/integrations/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers_%26_Embeddings-yellow)](https://huggingface.co/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-green)](https://www.trychroma.com/)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+
+
+
+
 # Features ✨ 
 
   💬 Interactive Chat Interface: Multi-turn conversation with chat history.
